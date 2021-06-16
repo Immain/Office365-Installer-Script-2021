@@ -3,9 +3,8 @@ cls
 :start
 set /p uDate=<lastupdated.txt
 echo 64-bit Installer for downloading, updating, and pre-installing Office 365
-echo By Ian Main
-echo Property of Coastal Computers
-echo 4420 Broad St. STE F2 San Luis Obispo, CA 93401
+echo By Deep Six Security
+echo www.deepsixsecurity.com
 echo.
 echo Do not run this from a network location (Samba,Windows Share).
 echo ---
